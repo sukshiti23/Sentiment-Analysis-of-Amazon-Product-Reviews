@@ -6,7 +6,7 @@ This project analyzes customer reviews to classify them as Positive or Negative 
 
  👉 Perform Sentiment Analysis of Amazon Product Reviews
  
- 👉 Creating a model using Transformers, NLTK, Pandas, Matplotlib, Seaborn and Sklearn libraries
+ 👉 Creating a model using Transformers, NLTK, Pandas, Matplotlib, Seaborn and Scikit-learn libraries
  
  👉 Determine the words that occur in Negative and Positive Reviews
  
